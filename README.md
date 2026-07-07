@@ -1,6 +1,6 @@
 # Pilot Finance
 
-![](lib/SS.png) 
+![alt text](https://github.com/Arif-AD/Pilot_Finance/blob/main/ss-pilotfinance.png?raw=true)
 
 Pilot Finance is a mobile application developed to simplify financial and operational management for smartphone repair businesses. The application helps streamline daily business processes by providing automatic service price calculation, customer management, warranty tracking, voucher management, and comprehensive financial reporting.
 
